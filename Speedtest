@@ -1,0 +1,1 @@
+^.+(speedtest-+[a-z0-9.]+[a-z]+.net.id|nflxvideo.net|ooklaserver.net|speedtestcustom.com|speedtest.net|fast.com|speedtest.+[a-z]+.id|.speedtest.).*$
